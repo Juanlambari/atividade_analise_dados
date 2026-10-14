@@ -1,0 +1,24 @@
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Configurações locais
+.env
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Arquivos de dados que não quero enviar
+*.csv
+
+# Arquivos Excel
+*.xlsx
+
+.codigo_aulla.txt
+
+pdf_utilizados/

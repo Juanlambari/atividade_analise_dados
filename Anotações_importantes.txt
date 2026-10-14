@@ -1,0 +1,26 @@
+1. O QUE está acontecendo?
+Regiões onde o Frete está altamente elevado em seus preços.
+Categoria Acessórios não tem uma margem boa de lucros pois, de 217 registros, 175 são lucros negativos.
+O frete tem tirado grande parte do lucro.
+Mal aproveitamento da Categoria Periférico(?).
+Produtos com grande volume de vendas, não tem grandes valores em lucro (provavelmente esses dentre esses produtos alguns ou maioria são pertencentes à categoria "Acessórios".
+
+2. POR QUE isso está acontecendo?
+Frete caro para Norte/Nordeste -> Pode se dar a pedidos de Produtos mais caros de catálogo.
+Frete consumindo lucro -> junta com o custo unitário do produto, após tirar do preço vendido da um lucro negativo na maioria das vezes pois o preço vendido do produto não compensa no gasto com frete.
+Categorias mal aproveitadas -> Periféricos devem ser estudados para melhora, podendo combinar com a categoria Monitores com chances de alavancar o lucro das duas Categorias.
+Acessórios dando prejuízo -> estão vendendo mt mas com um preco vendido que não se ganha quando tirado dos fretes ou até dos custos unitários.
+
+3. O QUE poderia ser alterado?
+Recomendações:
+Cobrar pela entrega do produto;
+Negociar um Custo de frete padronizado com uma empresa de entregas para evitar fretes variados em mesma região;
+Propagandas, marketings, especializados para a área da tecnologia. Como: Jogos que rodam nesse periférico vendido na loja. E também valorização nos produtos, com feedbacks de clientes, e no marketing como já dito;
+Melhorar a variedade ou até a qualidade dos produtos seja de qualquer Categoria, mas com foco em Periféricos e Monitores;
+E uma ultima recomendação caso precise, reajuste nos valores dos produtos, um aumento de 3% iria dobrar o lucro. Lembrando sou apenas um mensageiro.
+
+4. COMO implementar?
+Profissionais de Publicidade/Marketing, devem melhorar a forma de apresentar os produtos e valoriza-los, trazendo também os feedbacks de clientes antigos, pois isso traz confiança no cliente;
+Supervisores ou sócios da TechVendas, devem negociar com uma empresa, ou com a própria empresa que já faz, uma padronização no custo dos fretes. Ex: Sul -> 20R$, Norte-> 35$, lembrando sou apenas um analista com recomendações e não alguém que da ordens, na minha análise isso resultaria em um administração de lucro mais bem pensada;
+RH da empresa, tem que contratar funcionário(s) que tem disponibilidade de atender e sanar dúvidas de clientes. Com isso esperamos mais vendas e maior satisfação de todos.
+
